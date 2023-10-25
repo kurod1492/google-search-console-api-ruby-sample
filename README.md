@@ -1,7 +1,10 @@
-# google-search-console-api-ruby-sample
+# Google Search Console APIをRubyで利用するサンプルプログラム
 
-```bundle install```を実行してください。
+[Google Search Console APIをRubyで利用する \- ファーエンドテクノロジー株式会社](https://www.farend.co.jp/blog/2023/10/google-search-console-api-ruby/)の記事に記載したサンプルプログラムです。詳しくは記事をご覧ください。
 
-site_url, feed_path, date を変更してください。
+## 使い方
+
+* ```bundle install```を実行してください。
+* ```site_url``` 、 ```feed_path``` 、 ```date``` を変更してください。
 
 
